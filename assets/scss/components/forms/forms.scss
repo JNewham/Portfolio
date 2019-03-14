@@ -1,0 +1,138 @@
+.tabs {
+  position: relative;
+  min-height: 455px; /* This part sucks */
+  clear: both;
+  border: none;
+  background: #f7f7f7;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  box-shadow: 1px 1px 0px rgba(104, 104, 104, 0.5);
+  padding-top: 25px;
+  margin-bottom: 40px;
+
+}
+
+.tab-1{
+  margin-right:15px !important;
+}
+
+.tab {
+  float: left;
+  display: contents;
+}
+
+.tab label {
+  background: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: -1px;
+  position: relative;
+  left: 1px;
+  margin-right: 0;
+  font-size: 110%;
+  border: 1px $primary-color solid;
+  color: $primary-color;
+}
+
+.tab [type=radio] {
+  display: none;
+}
+
+.disclaimer {
+  width: 285px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 28px;
+
+  p {
+    color: #444 !important;
+    font-size: 85% !important;
+    text-align:left;
+  }
+}
+
+.lock {
+  width: 30px;
+  float: left;
+  margin-right: 15px;
+  margin-top: 5px;
+}
+
+.content {
+  position: absolute;
+  top: 81px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  right: 0;
+  bottom: 0;
+  padding: 20px;
+
+  p {
+    font-size: 110%;
+    color: $primary-color;
+  }
+
+}
+
+[type=radio]:checked ~ label {
+  background: $primary-color;
+  color: white;
+  z-index: 2;
+}
+
+[type=radio]:checked ~ label ~ .content {
+  z-index: 1;
+  display:none;
+}
+
+.price-1, .price-2 {
+  margin-right: 15px !important;
+}
+
+.price-1, .price-2, .price-3 {
+  width: 85px;
+  font-size: 130% !important;
+  font-weight: 600;
+}
+
+.custom-amount {
+  width: 285px;
+  display: inline-block;
+  border: 1px $primary-color solid;
+  margin-bottom: 0;
+  font-weight: 600;
+  color: $primary-color;
+}
+
+.content {
+  button {
+    height: 40px;
+    width: 285px;
+    color: white;
+    background-color: $primary-color;
+    font-weight: normal;
+  }
+}
+
+.input-group {
+  border: 1px solid $primary-color;
+  width: 285px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.input-group-label {
+  background-color: white;
+  border: none;
+  color: $primary-color;
+  font-weight: 600;
+}
+
+.input-group-field {
+  border: none;
+}
