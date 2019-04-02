@@ -1,2 +1,127 @@
 /** Framework **/
-@import "_foundation.scss";
+@import "_foundation";
+
+/** Variables **/
+$primary-color: grey;
+$secondary-color: pink;
+
+/** Fonts **/
+@import url('https://fonts.googleapis.com/css?family=Vidaloka');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+body {
+  border: solid 5px pink;
+}
+
+h1 {
+  font-family: 'Vidaloka', serif;
+  text-align: right;
+  font-size: 114px;
+  line-height: 1;
+  margin-bottom: 0;
+
+  @media screen and (max-width: 39.9375em) {
+      font-size: 75px;
+  }
+}
+
+p, a, li {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+li {
+  font-weight: bold;
+}
+
+ul {
+  padding-top: 20%;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+
+  &:hover {
+    color: $secondary-color;
+  }
+}
+
+/** Sidebar **/
+
+.sidebar {
+  top: 72px;
+  position:fixed;
+  max-width: 217px;
+  @media screen and (max-width: 39.9375em) {
+    display: none;
+  }
+}
+
+.contact {
+  position: fixed;
+  bottom: 25px;
+  font-weight: normal;
+
+}
+
+/** Body **/
+
+/** Index **/
+
+.body-container {
+  background:linear-gradient(left, pink, pink) no-repeat 1.8750rem 75px;
+  padding-right: 1.8750rem;
+
+    @media screen and (max-width: 63.9375em) {
+        background:linear-gradient(left, pink, pink) no-repeat 1.8750rem 35px;
+    }
+}
+
+.thumbnail-container {
+  background-color: $primary-color;
+  height: 350px;
+  margin-bottom: 25px;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    width: 90%;
+    @media screen and (max-width: 63.9375em) {
+      padding-top: 50px;
+      height: 90%;
+      width: auto;
+    }
+  }
+}
+
+/** Work **/
+
+.work-thumbnail {
+  background-color: $primary-color;
+  height: 450px;
+  margin-bottom: 25px;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    height: 90%;
+    @media screen and (max-width: 63.9375em) {
+      padding-top: 50px;
+      height: 90%;
+      width: auto;
+    }
+  }
+}
+
+.back-button {
+  img {
+    height: 30px;
+    margin-bottom: 20%;
+  }
+}
+
+/** On hover description **/

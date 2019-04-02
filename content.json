@@ -1,0 +1,228 @@
+{
+  "work": {
+    "title": "Case studies",
+    "subTitle": "Some of our latest work",
+    "image": "img/work/head.png",
+
+    "para1":  "With a focus on solving the fundamental problems the sector faces, we have an <b>international team</b> of creatives, strategists, data analysts, researchers and technologists.",
+
+    "para2": "Success comes from <b>collaboration</b>. Our approach allows us to tackle problems from a range of perspectives. We don’t just look at what’s happening now, but where your charity has come from and how your supporters perceive what you do – no matter if they have supported you for six months or sixty years. By building on the past we create the best plans for the future.",
+
+    "para3": "Creativity runs throughout Bluefrog Fundraising. Everyone is aware of the importance of using insight to <resolve problems and bringing clients into the creative process.",
+
+    "work": {
+      "client1": {
+        "title": "St Andrews",
+        "description": "Lorem",
+        "thumbnail": "/img/work/portfolio/one.png"
+      },
+      "client2": {
+        "title": "UNHCR",
+        "description": "Creativity runs throughout Bluefrog Fundraising Creativity runs throughout Bluefrog Fundraising",
+        "thumbnail": "/img/work/portfolio/two.png"
+      },
+      "client3": {
+        "title": "UNHCR",
+        "description": "Creativity runs throughout Bluefrog Fundraising Creativity runs throughout Bluefrog Fundraising",
+        "thumbnail": "/img/work/portfolio/three.png"
+      },
+      "client4": {
+        "title": "UNHCR",
+        "description": "Creativity runs throughout Bluefrog Fundraising Creativity runs throughout Bluefrog Fundraising",
+        "thumbnail": "/img/work/portfolio/four.png"
+      },
+      "client5": {
+        "title": "UNHCR",
+        "description": "Creativity runs throughout Bluefrog Fundraising Creativity runs throughout Bluefrog Fundraising",
+        "thumbnail": "/img/work/portfolio/five.png"
+      },
+      "client6": {
+        "title": "UNHCR",
+        "description": "Creativity runs throughout Bluefrog Fundraising Creativity runs throughout Bluefrog Fundraising",
+        "thumbnail": "/img/work/portfolio/six.png"
+      },
+      "client7": {
+        "title": "UNHCR",
+        "description": "Creativity runs throughout Bluefrog Fundraising Creativity runs throughout Bluefrog Fundraising",
+        "thumbnail": "/img/work/portfolio/seven.png"
+      },
+      "client8": {
+        "title": "UNHCR",
+        "description": "Creativity runs throughout Bluefrog Fundraising Creativity runs throughout Bluefrog Fundraising",
+        "thumbnail": "/img/work/portfolio/eight.png"
+      },
+      "client9": {
+        "title": "UNHCR",
+        "description": "Creativity runs throughout Bluefrog Fundraising Creativity runs throughout Bluefrog Fundraising",
+        "thumbnail": "/img/work/portfolio/nine.png"
+      }
+    }
+  },
+
+  "what": {
+    "title": "Our approach",
+    "subTitle": "Every campaign is different but this is where we start",
+    "image": "/head.png",
+
+    "intro": {
+      "left": "<strong>Nullam faucibus lacus</strong> libero, nec sollicitudin velit tempor quis. Cras mattis, est sed tincidunt convallis, lorem nisl iaculis nibh.",
+      "right": {
+        "para1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pharetra ex.",
+        "para2" : "Sed ante massa, tincidunt et velit non, elementum pellentesque velit. Cras bibendum tellus rutrum tempus ullamcorper."
+      }
+    },
+    "uplift": {
+      "title": "Understand your audience",
+      "para1": "The Reveal programme underpins everything Bluefrog Fundraising undertakes. It comprises qualitative research and data analytics. By combining the two we can build a picture of who currently supports you and tell you exactly what their fundraising needs are. Importantly, we can also tell you what is missing from the relationship and help you identify the gaps in your current offer and supporter profile.",
+      "para2": "Bluefrog Fundraising regularly undertakes a wide range of qualitative studies in a range of countries and languages. All studies are led by specialist fundraising qualitative research analysts who provide presentations and reports that tell you what people think and what you should do to increase income.",
+      "img": "/img/approach/analysis.svg"
+    },
+    "grow": {
+      "title": "Grow",
+      "para1": "The programme has four stages and can take from 18 months to two-years to deliver significant returns. Stage one is Discovery, where we build a full understanding of who your prospects are, why they have not been engaged to date and what they need from you. We then move to Implementation, where we apply our knowledge to build multi-point creative programmes that comprise traditional and online communications. Next we move to Examination where the programme is fully reviewed and modified to ensure donors feel valued and are fully connected to your cause. The final stage is Expansion, where we identify second tier prospects as well as moving your committed supporters to regular forms of giving.",
+      "para2": "In testing, we find that up to 50% of prospects have more than doubled their average gift by the end of the first two-year Uplift programme.",
+      "img": "/img/approach/email.svg"
+    },
+    "realise": {
+      "title": "Realise",
+      "para1": "The Reveal programme underpins everything Bluefrog Fundraising undertakes. It comprises qualitative research and data analytics. By combining the two we can build a picture of who currently supports you and tell you exactly what their fundraising needs are. Importantly, we can also tell you what is missing from the relationship and help you identify the gaps in your current offer and supporter profile.",
+      "para2": "Bluefrog Fundraising regularly undertakes a wide range of qualitative studies in a range of countries and languages. All studies are led by specialist fundraising qualitative research analysts who provide presentations and reports that tell you what people think and what you should do to increase income.",
+      "img": "/img/approach/responsive.svg"
+    },
+    "reveal": {
+      "title": "Reveal",
+      "para1": "The programme has four stages and can take from 18 months to two-years to deliver significant returns. Stage one is Discovery, where we build a full understanding of who your prospects are, why they have not been engaged to date and what they need from you. We then move to Implementation, where we apply our knowledge to build multi-point creative programmes that comprise traditional and online communications. Next we move to Examination where the programme is fully reviewed and modified to ensure donors feel valued and are fully connected to your cause. The final stage is Expansion, where we identify second tier prospects as well as moving your committed supporters to regular forms of giving.",
+      "para2": "In testing, we find that up to 50% of prospects have more than doubled their average gift by the end of the first two-year Uplift programme.",
+      "img": "/img/approach/marketing.svg"
+    },
+    "deliver": {
+      "one": "<strong>Creative executions</strong> — liquam ut neque feugiat, egestas urna id, tincidunt risus. Quisque sed sem quis leo placerat malesuada.",
+      "two": "<strong>Stories telling</strong> — Vivamus ac ipsum id orci dignissim porta, auris nec bibendum.",
+      "three": "<strong>New products</strong> — Suspendisse dictum volutpat purus at mattis. Suspendisse nec enim rutrum, eleifend augue id, maximus ante.",
+      "four": "<strong>Fundraising brands</strong> — Sed sapien leo, suscipit nec sollicitudin eu, finibus et lectus. Ut eu varius nisl. Sed fringilla ex et leo molestie, eu congue mauris rutrum.",
+      "five": "<strong>Strategic plans</strong> — Praesent ultricies, arcu sit amet vestibulum pretium, mauris metus porttitor neque, at sodales enim mauris non risus.",
+      "six": "<strong>Tactical reviews</strong> — Integer sit amet tempus ante. Pellentesque nec justo eu arcu rhoncus sollicitudin. Ut imperdiet dolor ac risus sollicitudin placerat.",
+      "seven": "<strong>Insight</strong> — Etiam convallis ornare porta. Quisque ut eros ut nibh tempor gravida."
+    },
+    "think": {
+      "one": "The only thing that matters a damn is the <strong>donor experience</strong>.",
+      "two": "Understanding donor need states is central to building a successful fundraising programme.",
+      "three": "What something looks like is important, but what really counts is how it <strong>makes someone feel</strong>.",
+      "four": "You <strong>can’t trick people</strong> into supporting you.",
+      "five": "Donors without a point of connection with your cause won’t become <strong>loyal supporters</strong>.",
+      "six": "The best fundraising strategy is <strong>being nice</strong> to those people who care about your cause.",
+      "seven": "You can only really judge success by how much <strong>legacy income</strong> you raise.",
+      "eight": "The stories that really matter are the ones that your supporters share. ",
+      "nine": "You build for the future by learning from the past."
+    },
+    "how": {
+      "title": "How can we help you?",
+      "left": "We’re part of Bluefrog Fundraising, a London based consultancy providing fundraising services for more than 30 years. ",
+      "right": {
+        "para1": "Bluefrog Fundraising is a fundraising consultancy where research, strategy and creative are combined to form one overarching approach to giving donors the best possible experience of supporting a charity.",
+        "para2": "With a focus on solving the fundamental problems the sector faces, we have an international team of creatives, strategists, data analysts, researchers and technologists ready to help your organisation."
+      }
+    }
+  },
+
+  "why": {
+    "title": "deliver better online donor experiences",
+    "subTitle": "With Bluefrog",
+    "image": "/img/why/head.png",
+    "image2": "/img/why/footer.png",
+
+    "intro": {
+      "title": "creating a compelling journey",
+
+      "right": {
+        "para1" : "Attrition is increasing, recruitment is tough and financial returns are in long-term decline.",
+        "para2" : "To turn the situation around, fundraising has to undergo a dramatic cultural shift. Understanding and answering <strong>donor needs</strong> must drive everything we do. The start of this process is the removal of the barriers that currently separate strategy and creative idea generation.",
+        "para3" : "Bluefrog Fundraising has been built as a <strong>fundraising consultancy</strong> where research, strategy and creative are combined to form one overarching approach to giving donors the best possible experience of supporting a charity."
+      }
+    },
+
+    "approach": {
+      "intro": {
+          "title": "Our tried and tested approach",
+          "para1": "Although every campaign is different, we arrive at a solution following the same basic approach, the Bluefrog four ‘D’s:"
+        },
+        "states": {
+          "one": {
+            "title": "1 Discovery",
+            "img": "/img/why/analysis.svg",
+            "description": "Understand your audience and requirements"
+          },
+          "two": {
+            "title": "2 Define",
+            "img": "/img/why/email.svg",
+            "description": "Strategy, planning and solution definition"
+          },
+          "three": {
+            "title": "3 Develop",
+            "img": "/img/why/responsive.svg",
+            "description": "Creative and development delivery"
+          },
+          "four": {
+            "title": "4 Dissect",
+            "img": "/img/why/marking.svg",
+            "description": "Monitor, analyse and learn"
+          }
+        }
+      },
+      "who": {
+        "title": "Who we are",
+        "left": "We’re part of Bluefrog Fundraising, a London based consultancy providing fundraising services for more than 30 years. ",
+
+        "right": {
+          "para1" : "Bluefrog Fundraising is a fundraising consultancy where research, strategy and creative are combined to form one overarching approach to giving donors the best possible experience of supporting a charity.",
+          "para2" : "With a focus on solving the fundamental problems the sector faces, we have an international team of creatives, strategists, data analysts, researchers and technologists ready to help your organisation."
+        }
+      },
+      "work": {
+        "title": "Working together with",
+        "para1": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Ut enim ad minim veniam, quis nostrud exercitation. Ab illo tempore, ab est sed immemorabili."
+      }
+    },
+
+    "vacancies" : {
+      "title": "Vacancies",
+      "subTitle": "Come work with us",
+      "image": "img/vacancies/head.jpg",
+
+      "job1" : {
+        "title" : "A Mid-weight art director",
+        "description" : "Bluefrog are looking for a talented and enthusiastic Mid-Weight Art Director to join the team at our Shoreditch office.",
+        "content" : "<p>If you’d like to work on projects that make a real difference, with inspirational charities and not-for-profit organisations here and internationally we’d like to hear from you.<p> <p><strong>Experience</strong><p> <p>A good understanding of direct marketing, brochures, press advertisements, pitches and branding is essential. You will have at least three years industry experience as an Art Director or Graphic Designer. Previous fundraising or not-for-profit experience would be an advantage. Also a degree of digital design knowledge, including email campaigns is desirable but not essential.</p> <p><strong>Skills</strong></p> <p>Responsible for delivering creative design projects from start to finish, taking ownership of a brief from concept to completion, where attention to detail is essential. Managing your own assignments and time to ensure you deliver on time and on budget.</p> <p>Our ideal candidate will be a keen and confident communicator, able to write print specifications, liaise with suppliers and present and sell concepts to clients. We expect you to be up to speed with industry standard software including Adobe Creative Suite. Hand- drawing your own scamps would also be an advantage.</p> <p>The role is fast-paced and it would suit a flexible, enthusiastic creative who enjoys working on a variety of projects.</p> <p>In return, you’ll get to work with some of the UK’s best known charities as well as some eye- catching, world-changing, print and DRTV projects for your portfolio.</p>"
+      }
+    },
+
+    "clients/marie-curie" : {
+      "title": "Marie Curie",
+      "subTitle": "By Our Side",
+      "image": "/head.png",
+
+      "intro": {
+        "left": "In 2014, Bluefrog set out to reinvigorate Marie Curie’s supporter magazine, Shine On. We were briefed to reposition the publication as a supporter centric magazine.",
+        "right": "We chose to rename the magazine ‘By our side’ to demonstrate the vital role of supporters, volunteers and fundraisers alike. Our unerring focus on having a role for both existing and prospective donors, combined with excellent fundraising technique, (understanding what people read on the page, when and how) was essential in lifting response and delivering huge increases in donated income."
+      },
+
+      "body" : {
+        "image" : "/head.png",
+        "subTitle" : "Lorem ipsum dolor sit amet",
+        "para1" : "‘By our side’ is supported with a personal letter, donation form and BRE to ensure that it is easy for donors to respond. Letters are tailored according to the relationship with specific groups and their areas of interest (for instance: volunteers; regular givers, cash supporters, eventers). The letter enables us to deliver a strong message and draw attention to any topical or important features. We follow best practice by including large, A4, donation forms featuring a mini appeal, (what we are asking for, why, and the difference it will make). This supported by rich, interesting and YOU (donor) focused copy is what succeeds in driving donations, over and above ‘organisation’ focused updates and news.",
+        "para2" : "Newsletters are a <strong>fantastic fundraising</strong> tool, as those who are most committed to your cause will also be those who are most likely to engage bibendum sed eros.",
+        "para3" : "Suspendisse erat arcu, bibendum sed eros quis, sagittis interdum lacus. Praesent dignissim rhoncus nisl nec imperdiet. Orci varius natoque montes, nascetur ridiculus mus.",
+        "para4" : "Praesent sollicitudin ante purus, sit amet rhoncus lacus volutpat vel. Cras a felis a quam lobortis luctus. Phasellus volutpat sed ex sed commodo.",
+        "image2" : "/head.png",
+
+        "infographic" : {
+          "image1" : "img/clients/marie-curie/infographic.png",
+          "para1" : "Etiam ut accumsan mi, ac imperdiet orci. <strong>Etiam finibus odio</strong> sit amet metus",
+          "image2" : "img/clients/marie-curie/infographic.png",
+          "para2" : "Lorem ipsum dolor sit amet, cursus a odio eu consectetur <strong>adipiscing elit</strong>. Nulla maximus pharetra ex.",
+          "image3" : "img/clients/marie-curie/infographic.png",
+          "para3" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla <strong>maximus pharetra ex</strong> diam vitae purus maximus."
+        }
+      }
+    }
+  }
