@@ -16,9 +16,10 @@
         <div class="body-container">
           <div class="row">
             <div class="columns large-12 medium-8">
-              <h1>jNewham</h1>
+              <h1> {{ txt }}</h1>
             </div>
           </div>
+
           <div class="row">
             <div class="columns large-4">
               <a href="123">
@@ -92,9 +93,14 @@
 </template>
 
 <script>
+
   export default {
     data () {
-      return { description: null }
+      return {
+        description: null,
+        i: 0,
+        speed: 10;
+      }
     }
   }
 </script>
