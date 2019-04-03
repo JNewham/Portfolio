@@ -11,6 +11,14 @@ $secondary-color: pink;
 
 body {
   border: solid 5px pink;
+  padding: 10px;
+  margin: 10px;
+
+  @media screen and (max-width: 39.9375em) {
+    border: none;
+    padding: none;
+    margin: none;
+  }
 }
 
 h1 {
