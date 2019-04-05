@@ -23,8 +23,8 @@
           <div class="row">
             <div class="columns large-4">
               <a href="123">
-                <div @mouseover="typeWriter"  @mouseout="description = ''" class="thumbnail-container">
-                  <img src="https://via.placeholder.com/150">
+                <div class="thumbnail-container">
+                  <img @mouseover="typeWriter('Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')" @mouseout="typeWriter('clear')" src="https://via.placeholder.com/150">
                 </div>
               </a>
             </div>
@@ -95,16 +95,14 @@
 <script>
 export default {
   methods: {
-    typeWriter: function() {
-        var i = 0;
-        var txt = 'Lorem ipsum dummy text blabla.';
-        var speed = 10;
-    //    var description = 'literally all of the things';
-      console.log("something")
-      if (i < txt.length) {
-        document.getElementById("description-box").innerHTML += txt.charAt(i);
-         i++;
-      }
+    typeWriter: function(word) {
+      var i = 0;
+      var timer = setInterval(function(){
+          document.getElementById("description-box").innerHTML+=word[i];
+          i++;
+          if(i>word.length-1){clearInterval(timer)}
+          if(word == "clear"){clearInterval(timer)}
+      },100)
     }
   }
 }

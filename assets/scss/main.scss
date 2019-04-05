@@ -13,6 +13,7 @@ body {
   border: solid 5px pink;
   padding: 10px;
   margin: 10px;
+  min-height: 100vh;
 
   @media screen and (max-width: 39.9375em) {
     border: none;
