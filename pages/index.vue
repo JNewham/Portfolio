@@ -24,21 +24,21 @@
             <div class="columns large-4">
               <a href="123">
                 <div class="thumbnail-container">
-                  <img @mouseover="typeWriter('Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')" src="https://via.placeholder.com/150">
+                  <img @mouseover="typeWriter('Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')" src="~/assets/img/nexus5_mockup.png">
                 </div>
               </a>
             </div>
             <div class="columns large-4">
               <a href="123">
                 <div class="thumbnail-container">
-                  <img @mouseover="typeWriter('Posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')" src="https://via.placeholder.com/150">
+                  <img @mouseover="typeWriter('Posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')" src="~/assets/img/webpage.png">
                 </div>
               </a>
             </div>
             <div class="columns large-4">
               <a href="123">
                 <div @mouseover="description = 'Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.'"  @mouseout="description = ''" class="thumbnail-container">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/nexus5_mockup.png">
                 </div>
               </a>
             </div>
@@ -48,21 +48,21 @@
             <div class="columns large-4">
               <a href="123">
                 <div @mouseover="description = 'Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.'"  @mouseout="description = ''" class="thumbnail-container">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/nexus5_mockup.png">
                 </div>
               </a>
             </div>
             <div class="columns large-4">
               <a href="123">
                 <div @mouseover="description = 'Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.'"  @mouseout="description = ''" class="thumbnail-container">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/nexus5_mockup.png">
                 </div>
               </a>
             </div>
             <div class="columns large-4">
               <a href="123">
                 <div @mouseover="description = 'Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.'"  @mouseout="description = ''" class="thumbnail-container">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/nexus5_mockup.png">
                 </div>
               </a>
             </div>
@@ -72,17 +72,17 @@
             <div class="columns large-4">
               <a href="123">
                 <div @mouseover="description = 'Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.'"  @mouseout="description = ''" class="thumbnail-container">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/nexus5_mockup.png">
                 </div>
               </a>
             </div>
             <div class="columns large-4">
               <a href="123">
                 <div @mouseover="description = 'Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.'"  @mouseout="description = ''" class="thumbnail-container">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/nexus5_mockup.png">
                 </div>
               </a>
-            </div>
+             </div>
             <div class="columns large 4">
             </div>
           </div>
