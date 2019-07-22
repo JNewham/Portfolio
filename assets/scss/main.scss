@@ -2,20 +2,20 @@
 @import "_foundation";
 
 /** Variables **/
-$primary-color: grey;
+$primary-color: #d4d2d4;
 $secondary-color: pink;
+
 
 /** Fonts **/
 @import url('https://fonts.googleapis.com/css?family=Vidaloka');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 body {
-  border: solid 5px pink;
+  border: solid 15px pink;
   min-height: 100vh;
 
   width: 100%;
   height: 100%;
-
   @media screen and (max-width: 39.9375em) {
     border: none;
     padding: none;
@@ -26,12 +26,13 @@ body {
 h1 {
   font-family: 'Vidaloka', serif;
   text-align: right;
-  font-size: 114px;
+  font-size: 100px;
   line-height: 1;
   margin-bottom: 0;
-
+  margin-top: -20px;
   @media screen and (max-width: 39.9375em) {
       font-size: 75px;
+      margin-top: 0;
   }
 }
 
@@ -51,11 +52,20 @@ ul {
 
 a {
   color: black;
-  text-decoration: underline;
+  text-decoration: none;
 
   &:hover {
     color: $secondary-color;
   }
+}
+
+/** Page Transitions **/
+page-enter-active, .page-leave-active {
+  transition: all .30s ease-out;
+}
+.page-enter, .page-leave-active {
+  opacity: 0;
+  transform-origin: 50% 50%;
 }
 
 /** Sidebar **/
@@ -71,9 +81,17 @@ a {
 
 .contact {
   position: fixed;
-  bottom: 25px;
+  bottom: 43px;
   font-weight: normal;
+  color: grey;
+}
 
+.about {
+  position: fixed;
+  bottom: 75px;
+  font-weight: normal;
+  max-width: 217px;
+  color: grey;
 }
 
 /** Body **/
@@ -81,23 +99,34 @@ a {
 /** Index **/
 
 .thumbnail-container {
-  background-color: $primary-color;
   height: 350px;
   margin-bottom: 25px;
   overflow: hidden;
+  text-align: center;
+  -webkit-box-shadow: 5px 5px 0px 0px rgba(212,210,212,1);
+  -moz-box-shadow: 5px 5px 0px 0px rgba(212,210,212,1);
+  box-shadow: 5px 5px 0px 0px rgba(212,210,212,1);
+  position: relative;
+
   img {
-    display: block;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    top:16%;
-    height: 69%;
+    height: 100%;
+    max-width: none;
     transition: all .2s ease-in-out;
-    &:hover { transform: scale(1.05); }
-    @media screen and (max-width: 63.9375em) {
-      top:5%;
-      height: 90%;
-    }
+    position: absolute;
+    top: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    right: -9999px;
+    margin: auto;
+  }
+  &:after {
+  display: block;
+  position: relative;
+  background: radial-gradient(circle, rgba(0,0,0,0) 64%, rgba(0,0,0,0.04525560224089631) 100%);
+  margin-top: -350px;
+  height: 100%;
+  width: 100%;
+  content:'';
   }
 }
 
@@ -121,9 +150,10 @@ a {
   }
 }
 
+.work-sidebar {
+    margin-top:40px;
+}
+
 .back-button {
-  img {
-    height: 30px;
-    margin-bottom: 20%;
-  }
+  font-size: 20px;
 }

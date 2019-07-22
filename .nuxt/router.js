@@ -4,7 +4,11 @@ import Router from 'vue-router'
 Vue.use(Router)
 
 const _f4c8a60c = () => import('../pages/index.vue' /* webpackChunkName: "pages/index" */).then(m => m.default || m)
-const _7258f65a = () => import('../pages/123.vue' /* webpackChunkName: "pages/123" */).then(m => m.default || m)
+const _54ad4bfe = () => import('../pages/work/QI.vue' /* webpackChunkName: "pages/work/QI" */).then(m => m.default || m)
+const _6dbfdc08 = () => import('../pages/work/LATA.vue' /* webpackChunkName: "pages/work/LATA" */).then(m => m.default || m)
+const _62642ff2 = () => import('../pages/work/blind-veterans.vue' /* webpackChunkName: "pages/work/blind-veterans" */).then(m => m.default || m)
+const _46b607b1 = () => import('../pages/work/greenpeace.vue' /* webpackChunkName: "pages/work/greenpeace" */).then(m => m.default || m)
+const _51681d22 = () => import('../pages/work/LWC.vue' /* webpackChunkName: "pages/work/LWC" */).then(m => m.default || m)
 
 
 
@@ -46,9 +50,29 @@ export function createRouter () {
 			name: "index"
 		},
 		{
-			path: "/123",
-			component: _7258f65a,
-			name: "123"
+			path: "/work/QI",
+			component: _54ad4bfe,
+			name: "work-QI"
+		},
+		{
+			path: "/work/LATA",
+			component: _6dbfdc08,
+			name: "work-LATA"
+		},
+		{
+			path: "/work/blind-veterans",
+			component: _62642ff2,
+			name: "work-blind-veterans"
+		},
+		{
+			path: "/work/greenpeace",
+			component: _46b607b1,
+			name: "work-greenpeace"
+		},
+		{
+			path: "/work/LWC",
+			component: _51681d22,
+			name: "work-LWC"
 		}
     ],
     fallback: false
