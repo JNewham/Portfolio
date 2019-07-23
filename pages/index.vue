@@ -22,21 +22,21 @@
 
           <div class="row">
             <div class="columns large-4">
-              <a href="work/greenpeace" @mouseover="typeWriter('Greenpeace - Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')">
+              <a href="work/greenpeace" @mouseover="typeWriter('Greenpeace - Single page microsite for Greenpeace\'s high value Linkedin campaign to go along with driver emails and direct mailing.')">
                 <div class="thumbnail-container">
                   <img src="~/assets/img/GP-Thumbnail.jpg">
                 </div>
               </a>
             </div>
             <div class="columns large-4">
-              <a href="work/blind-veterans" @mouseover="typeWriter('Blind Veterans UK - Posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')">
+              <a href="work/blind-veterans" @mouseover="typeWriter('Blind Veterans UK - Pitch work detailing a scalable donation gateway.')">
                 <div class="thumbnail-container">
                   <img src="~/assets/img/BV-Thumbnail.jpg">
                 </div>
               </a>
             </div>
             <div class="columns large-4">
-              <a href="work/LATA" @mouseover="typeWriter('Latin American Travel Association - Posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')">
+              <a href="work/LATA" @mouseover="typeWriter('Latin American Travel Association - Complete admin section aesthetical overhaul followed by a front end redesign')">
                 <div class="thumbnail-container">
                   <img src="~/assets/img/LATA-Thumbnail.jpg">
                 </div>
@@ -46,7 +46,7 @@
 
           <div class="row">
             <div class="columns large-4">
-              <a href="work/LWC" @mouseover="typeWriter('Lend with Care - Posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')">
+              <a href="work/LWC" @mouseover="typeWriter('Lend with Care - Front end redesign, restructure and new CMS implementation (Prismic).')">
                 <div class="thumbnail-container">
                   <img src="~/assets/img/LWC-Thumbnail.jpg">
                 </div>
@@ -70,7 +70,7 @@
 
           <div class="row">
             <div class="columns large-4">
-              <a href="work/QI" @mouseover="typeWriter('QueerIdeas - Posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.')">
+              <a href="work/QI" @mouseover="typeWriter('QueerIdeas -  A third sector blog by Mark Philips both designed and built by me.')">
                 <div class="thumbnail-container">
                   <img src="~/assets/img/QI-Thumbnail.jpg">
                 </div>

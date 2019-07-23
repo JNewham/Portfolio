@@ -5,15 +5,14 @@
         <div class="row">
           <div class="columns large-12 sidebar">
             <a class="back-button" href="./../">⟵</a>
-            <p class="work-sidebar">Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.</p>
+            <p class="work-sidebar">Blind Veterans UK - For this pitch we wanted to create a donation gateway that had price points with tangible outcomes for the cause but with completely scalable investment.</p>
 
             <ul>
-              <li>Quisque</li>
-              <li>Praesent Id</li>
-              <li>Fusce Odie</li>
-              <li>Consequat</li>
+              <li>Adobe XD</li>
+              <li>UI/UX</li>
             </ul>
-            <a href="mailto:contact@jnewham.co.uk" class="contact">contact@jnewham.co.uk</a>
+            <p class="about">Frequent Designer,<br>Ocational Developer</p>
+            <a href="mailto:contact@jnewham.co.uk" class="contact">+ contact@jnewham.co.uk</a>
           </div>
         </div>
 

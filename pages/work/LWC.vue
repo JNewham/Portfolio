@@ -5,15 +5,15 @@
         <div class="row">
           <div class="columns large-12 sidebar">
             <a class="back-button" href="./../">⟵</a>
-            <p class="work-sidebar">Vestibulum posuere bibendum pulvinar. Fusce tincidunt metus id tristique dictum. Nullam lacus ex, pulvinar et porttitor vel, pellentesque ac turpis. In viverra, magna id rutrum mollis, tortor sapien vulputate eros, vitae porta tortor felis ut libero.</p>
+            <p class="work-sidebar">Lend with Care - Here i helped the restructuring of how the website navigated and redesigned individual pages to accommodate for the new content. On top of this i found and connected a new headless CMS (Prismic)</p>
 
             <ul>
-              <li>Quisque</li>
-              <li>Praesent Id</li>
-              <li>Fusce Odie</li>
-              <li>Consequat</li>
+              <li>HTML5 / CSS3</li>
+              <li>Javascript</li>
+              <li>Design</li>
             </ul>
-            <a href="mailto:contact@jnewham.co.uk" class="contact">contact@jnewham.co.uk</a>
+            <p class="about">Frequent Designer,<br>Ocational Developer</p>
+            <a href="mailto:contact@jnewham.co.uk" class="contact">+ contact@jnewham.co.uk</a>
           </div>
         </div>
 
