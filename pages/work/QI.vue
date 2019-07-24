@@ -5,6 +5,7 @@
         <div class="row">
           <div class="columns large-12 sidebar">
             <a class="back-button" href="./../">⟵</a>
+            <p class="work-sidebar"><a href="http://www.queerideas.co.uk">+ website</a></p>
             <p class="work-sidebar"> QueerIdeas - A third sector blog by Mark Philips both designed and built by me</p>
 
             <ul>
@@ -40,7 +41,7 @@
           <div class="row">
             <div class="columns large-12">
                 <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/work/qi/thumb1.jpg">
                 </div>
             </div>
           </div>
@@ -48,7 +49,7 @@
           <div class="row">
             <div class="columns large-12">
                 <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/work/qi/thumb2.jpg">
                 </div>
             </div>
           </div>
@@ -56,7 +57,7 @@
           <div class="row">
             <div class="columns large-12">
                 <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/work/qi/thumb3.jpg">
                 </div>
             </div>
           </div>

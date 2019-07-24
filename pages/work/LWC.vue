@@ -30,41 +30,33 @@
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
-                <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
-                </div>
-              </a>
+              <div class="work-thumbnail">
+                <img src="https://via.placeholder.com/150">
+              </div>
             </div>
           </div>
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
-                <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
-                </div>
-              </a>
+              <div class="work-thumbnail">
+                <img src="~/assets/img/work/lwc/thumb1.jpg">
+              </div>
             </div>
           </div>
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
-                <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
-                </div>
-              </a>
+              <div class="work-thumbnail">
+                <img src="~/assets/img/work/lwc/thumb2.jpg">
+              </div>
             </div>
           </div>
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
-                <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
-                </div>
-              </a>
+              <div class="work-thumbnail">
+                <img src="~/assets/img/work/lwc/thumb3.jpg">
+              </div>
             </div>
           </div>
 

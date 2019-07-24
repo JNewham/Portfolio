@@ -5,6 +5,7 @@
         <div class="row">
           <div class="columns large-12 sidebar">
             <a class="back-button" href="./../">⟵</a>
+            <p class="work-sidebar"><a href="#">+ prototype</a></p>
             <p class="work-sidebar">Blind Veterans UK - For this pitch we wanted to create a donation gateway that had price points with tangible outcomes for the cause but with completely scalable investment.</p>
 
             <ul>
@@ -29,41 +30,33 @@
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
                 <div class="work-thumbnail">
                   <img src="https://via.placeholder.com/150">
                 </div>
-              </a>
             </div>
           </div>
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
                 <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/work/bv/thumb1.jpg">
                 </div>
-              </a>
             </div>
           </div>
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
                 <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/work/bv/thumb2.jpg">
                 </div>
-              </a>
             </div>
           </div>
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
                 <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
+                  <img src="~/assets/img/work/bv/thumb3.jpg">
                 </div>
-              </a>
             </div>
           </div>
 

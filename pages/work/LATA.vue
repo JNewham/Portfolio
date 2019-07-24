@@ -29,41 +29,41 @@
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
-                <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
-                </div>
-              </a>
+              <div class="work-thumbnail">
+                <img src="https://via.placeholder.com/150">
+              </div>
             </div>
           </div>
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
-                <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
-                </div>
-              </a>
+              <div class="work-thumbnail">
+                <img src="https://via.placeholder.com/150">
+              </div>
             </div>
           </div>
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
-                <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
-                </div>
-              </a>
+              <div class="work-thumbnail">
+                <img src="~/assets/img/work/lata/thumb3.jpg">
+              </div>
             </div>
           </div>
 
           <div class="row">
             <div class="columns large-12">
-              <a href="123">
-                <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
-                </div>
-              </a>
+              <div class="work-thumbnail">
+                <img src="~/assets/img/work/lata/thumb3.jpg">
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="columns large-12">
+              <div class="work-thumbnail">
+                <img src="~/assets/img/work/lata/thumb4.jpg">
+              </div>
             </div>
           </div>
 
