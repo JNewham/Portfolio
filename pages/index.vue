@@ -22,12 +22,13 @@
 
           <div class="row">
             <div class="columns large-4">
-              <a href="work/greenpeace" @mouseover="typeWriter('Greenpeace - Single page microsite for Greenpeace\'s high value Linkedin campaign to go along with driver emails and direct mailing.')">
+              <a href="123">
                 <div class="thumbnail-container">
                   <img src="~/assets/img/GP-Thumbnail.jpg">
                 </div>
               </a>
             </div>
+
             <div class="columns large-4">
               <a href="work/blind-veterans" @mouseover="typeWriter('Blind Veterans UK - Pitch work detailing a scalable donation gateway.')">
                 <div class="thumbnail-container">
@@ -53,19 +54,13 @@
               </a>
             </div>
             <div class="columns large-4">
-              <a href="123">
+              <a href="work/greenpeace" @mouseover="typeWriter('Greenpeace - Single page microsite for Greenpeace\'s high value Linkedin campaign to go along with driver emails and direct mailing.')">
                 <div class="thumbnail-container">
                   <img src="~/assets/img/GP-Thumbnail.jpg">
                 </div>
               </a>
             </div>
-            <div class="columns large-4">
-              <a href="123">
-                <div class="thumbnail-container">
-                  <img src="~/assets/img/GP-Thumbnail.jpg">
-                </div>
-              </a>
-            </div>
+            <div class="columns large-4"></div>
           </div>
 
           <div class="row">
@@ -76,15 +71,8 @@
                 </div>
               </a>
             </div>
-            <div class="columns large-4">
-              <a href="123">
-                <div class="thumbnail-container">
-                  <img src="~/assets/img/GP-Thumbnail.jpg">
-                </div>
-              </a>
-             </div>
-            <div class="columns large 4">
-            </div>
+            <div class="columns large-4"></div>
+            <div class="columns large 4"></div>
           </div>
         </div>
       </div>
