@@ -24,7 +24,7 @@
             <div class="columns large-4">
               <a href="123">
                 <div class="thumbnail-container">
-                  <img src="~/assets/img/GP-Thumbnail.jpg">
+                  <img src="~/assets/img/me-thumb.jpg">
                 </div>
               </a>
             </div>
