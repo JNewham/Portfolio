@@ -1,3 +1,6 @@
+**Me**
+
+Hey, I'm Josh. For the last 3 years I've been based in London as a digital designer predominately for the third sector working with major charities and causes.
 **Greenpeace**
 + Thumbnail
 + Description

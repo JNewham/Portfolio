@@ -9,10 +9,10 @@
             <p class="work-sidebar"> QueerIdeas - A third sector blog by Mark Philips both designed and built by me</p>
 
             <ul>
-              <li>Quisque</li>
-              <li>Praesent Id</li>
-              <li>Fusce Odie</li>
-              <li>Consequat</li>
+              <li>HTML5 / CSS3</li>
+              <li>Javascript</li>
+              <li>Design</li>
+              <li>Sketch</li>
             </ul>
             <p class="about">Frequent Designer,<br>Ocational Developer</p>
             <a href="mailto:contact@jnewham.co.uk" class="contact">+ contact@jnewham.co.uk</a>
@@ -32,9 +32,11 @@
 
           <div class="row">
             <div class="columns large-12">
-                <div class="work-thumbnail">
-                  <img src="https://via.placeholder.com/150">
-                </div>
+              <div class="work-video-thumbnail">
+                <video width="100%" height="100%" autoplay loop muted>
+                  <source src="/videos/qi-edit.mp4" type="video/mp4" />
+                </video>
+              </div>
             </div>
           </div>
 

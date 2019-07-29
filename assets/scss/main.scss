@@ -140,6 +140,7 @@ page-enter-active, .page-leave-active {
   -moz-box-shadow: 5px 5px 0px 0px rgba(212,210,212,1);
   box-shadow: 5px 5px 0px 0px rgba(212,210,212,1);
   position: relative;
+  background: #cdcbcd;
   img {
     height: 100%;
     max-width: none;
@@ -158,6 +159,22 @@ page-enter-active, .page-leave-active {
   height: 100%;
   width: 100%;
   content:'';
+  }
+}
+
+.work-video-thumbnail {
+  height: 450px;
+  margin-bottom: 25px;
+  overflow: hidden;
+  text-align: center;
+  -webkit-box-shadow: 5px 5px 0px 0px rgba(212,210,212,1);
+  -moz-box-shadow: 5px 5px 0px 0px rgba(212,210,212,1);
+  box-shadow: 5px 5px 0px 0px rgba(212,210,212,1);
+  position: relative;
+  background: #d3d1d3;
+
+  video {
+    margin-left: -3px;
   }
 }
 

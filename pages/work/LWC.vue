@@ -5,6 +5,7 @@
         <div class="row">
           <div class="columns large-12 sidebar">
             <a class="back-button" href="./../">⟵</a>
+            <p class="work-sidebar"><a href="https://lendwithcare.org">+ website</a></p>
             <p class="work-sidebar">Lend with Care - Here i helped the restructuring of how the website navigated and redesigned individual pages to accommodate for the new content. On top of this i found and connected a new headless CMS (Prismic)</p>
 
             <ul>
@@ -30,8 +31,10 @@
 
           <div class="row">
             <div class="columns large-12">
-              <div class="work-thumbnail">
-                <img src="https://via.placeholder.com/150">
+              <div class="work-video-thumbnail">
+                <video width="100%" height="100%" autoplay loop muted>
+                  <source src="/videos/lwc-edit.mp4" type="video/mp4" />
+                </video>
               </div>
             </div>
           </div>

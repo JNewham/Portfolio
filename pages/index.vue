@@ -22,11 +22,9 @@
 
           <div class="row">
             <div class="columns large-4">
-              <a href="123">
-                <div class="thumbnail-container">
+                <div class="thumbnail-container" @mouseover="typeWriter('Hey, I\'m Josh. For the last 3 years I\'ve been based in London as a digital designer predominately for the third sector working with major charities and causes.')">
                   <img src="~/assets/img/me-thumb.jpg">
                 </div>
-              </a>
             </div>
 
             <div class="columns large-4">

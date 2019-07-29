@@ -5,7 +5,7 @@
         <div class="row">
           <div class="columns large-12 sidebar">
             <a class="back-button" href="./../">⟵</a>
-            <p class="work-sidebar"><a href="#">+ full resolution ver</a></p>
+            <p class="work-sidebar"><a href="/full/Greenpeace.pdf">+ full resolution ver</a></p>
 
             <p class="work-sidebar">Greenpeace - Single page microsite for Greenpeace's high value Linkedin campaign to go along with driver emails and direct mailing.</p>
 
@@ -28,14 +28,6 @@
           <div class="row">
             <div class="columns large-12 medium-8">
               <h1>JNewham</h1>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="columns large-12">
-              <div class="work-thumbnail">
-                <img src="https://via.placeholder.com/150">
-              </div>
             </div>
           </div>
 
