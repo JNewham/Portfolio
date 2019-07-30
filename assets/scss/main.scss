@@ -129,6 +129,37 @@ page-enter-active, .page-leave-active {
   }
 }
 
+.thumbnail-me-container {
+  height: 350px;
+  margin-bottom: 25px;
+  overflow: hidden;
+  text-align: center;
+  -webkit-box-shadow: 5px 5px 0px 0px pink;
+  -moz-box-shadow: 5px 5px 0px 0px pink;
+  box-shadow: 5px 5px 0px 0px pink;
+  position: relative;
+
+  img {
+    height: 100%;
+    max-width: none;
+    position: absolute;
+    top: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    right: -9999px;
+    margin: auto;
+  }
+  &:after {
+  display: block;
+  position: relative;
+  background: radial-gradient(circle, rgba(0,0,0,0) 64%, rgba(0,0,0,0.04525560224089631) 100%);
+  margin-top: -350px;
+  height: 100%;
+  width: 100%;
+  content:'';
+  }
+}
+
 /** Work **/
 
 .work-thumbnail {
@@ -184,4 +215,14 @@ page-enter-active, .page-leave-active {
 
 .back-button {
   font-size: 20px;
+}
+
+
+/** Mobile only **/
+
+.mobile-description {
+  display: none;
+  @media screen and (max-width: 39.9375em) {
+    display: block;
+  }
 }
