@@ -3,12 +3,12 @@ import Router from 'vue-router'
 
 Vue.use(Router)
 
-const _f4c8a60c = () => import('../pages/index.vue' /* webpackChunkName: "pages/index" */).then(m => m.default || m)
-const _54ad4bfe = () => import('../pages/work/QI.vue' /* webpackChunkName: "pages/work/QI" */).then(m => m.default || m)
-const _6dbfdc08 = () => import('../pages/work/LATA.vue' /* webpackChunkName: "pages/work/LATA" */).then(m => m.default || m)
-const _62642ff2 = () => import('../pages/work/blind-veterans.vue' /* webpackChunkName: "pages/work/blind-veterans" */).then(m => m.default || m)
-const _46b607b1 = () => import('../pages/work/greenpeace.vue' /* webpackChunkName: "pages/work/greenpeace" */).then(m => m.default || m)
-const _51681d22 = () => import('../pages/work/LWC.vue' /* webpackChunkName: "pages/work/LWC" */).then(m => m.default || m)
+const _6d7cfc51 = () => import('..\\pages\\index.vue' /* webpackChunkName: "pages\\index" */).then(m => m.default || m)
+const _05efea0c = () => import('..\\pages\\work\\QI.vue' /* webpackChunkName: "pages\\work\\QI" */).then(m => m.default || m)
+const _6a66cc04 = () => import('..\\pages\\work\\LATA.vue' /* webpackChunkName: "pages\\work\\LATA" */).then(m => m.default || m)
+const _5b8c54ee = () => import('..\\pages\\work\\blind-veterans.vue' /* webpackChunkName: "pages\\work\\blind-veterans" */).then(m => m.default || m)
+const _9a5feaa6 = () => import('..\\pages\\work\\greenpeace.vue' /* webpackChunkName: "pages\\work\\greenpeace" */).then(m => m.default || m)
+const _973584b4 = () => import('..\\pages\\work\\LWC.vue' /* webpackChunkName: "pages\\work\\LWC" */).then(m => m.default || m)
 
 
 
@@ -46,32 +46,32 @@ export function createRouter () {
     routes: [
 		{
 			path: "/",
-			component: _f4c8a60c,
+			component: _6d7cfc51,
 			name: "index"
 		},
 		{
 			path: "/work/QI",
-			component: _54ad4bfe,
+			component: _05efea0c,
 			name: "work-QI"
 		},
 		{
 			path: "/work/LATA",
-			component: _6dbfdc08,
+			component: _6a66cc04,
 			name: "work-LATA"
 		},
 		{
 			path: "/work/blind-veterans",
-			component: _62642ff2,
+			component: _5b8c54ee,
 			name: "work-blind-veterans"
 		},
 		{
 			path: "/work/greenpeace",
-			component: _46b607b1,
+			component: _9a5feaa6,
 			name: "work-greenpeace"
 		},
 		{
 			path: "/work/LWC",
-			component: _51681d22,
+			component: _973584b4,
 			name: "work-LWC"
 		}
     ],

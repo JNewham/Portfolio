@@ -5,7 +5,7 @@
         <div class="row">
           <div class="columns large-12 sidebar">
             <p id="description-box"></p>
-            <p class="about">Frequent Designer,<br>Ocational Developer</p>
+            <p class="about">Frequent Designer,<br>Occasional Developer</p>
             <a href="mailto:contact@jnewham.co.uk" class="contact">+ contact@jnewham.co.uk</a>
           </div>
         </div>
